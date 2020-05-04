@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "AK Crosswords",
+    "slug": "ah-crossword-app",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/img/app-logo-b.png",
+    "splash": {
+      "image": "./assets/img/mobile-splash-screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.akenheadcrosswords.akcrosswords",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.akenheadcrosswords.akcrosswords",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json"
+    },
+    "description": ""
+  }
+}

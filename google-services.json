@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996542775834",
+    "firebase_url": "https://passionfruit-e85c2.firebaseio.com",
+    "project_id": "passionfruit-e85c2",
+    "storage_bucket": "passionfruit-e85c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996542775834:android:4f8865ea69fdedba7687a3",
+        "android_client_info": {
+          "package_name": "com.akenheadcrosswords.akcrosswords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996542775834-tid1sj4hi23o5tgfusnirmoqjotntjpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2jlP_Tf5zcCGZRPUWay6Um7uElnvUeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996542775834-tid1sj4hi23o5tgfusnirmoqjotntjpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
